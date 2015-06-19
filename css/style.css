@@ -209,7 +209,7 @@ url(../img/slider.jpg) no-repeat;  background-size:100% 100%;
    .sliderBox{ position:relative; z-index:99; margin:auto; background-image:url(../img/slider-tablet.png); background-repeat:no-repeat; background-size:100% 100%; width:1200px; height:503px; max-width:100%; max-height:auto;}
    
    .slide1 {
-    margin-top: 43px;
+    margin-top: 52px;
      width: 1114px;
     z-index: 10;
 	position:relative;
